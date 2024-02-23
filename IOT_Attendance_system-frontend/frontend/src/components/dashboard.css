@@ -1,0 +1,32 @@
+/* dashboard.css
+
+/* Include the Nunito font */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+/* Add any additional styles if needed */
+body {
+  font-family: 'Nunito', sans-serif;
+  font-weight: bolder;
+}
+
+/* styles.css */
+
+/* Include the Rubik font */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+
+/* Apply Rubik font to body or specific elements */
+body {
+  font-family: 'Rubik', sans-serif;
+  
+}
+
+/* You can also apply the font to specific elements if needed */
+
+
+
+/* Apply Nunito font to Drawer component */
+.MuiDrawer-paper {
+    font-family: 'Nunito', sans-serif;
+    
+    font-weight: bolder;
+} 
